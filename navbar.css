@@ -25,3 +25,40 @@ nav > a:hover{
     width: 80px;
 
 }
+
+nav > img{
+    height: 40px;
+}
+
+.pesquisar{
+    background-color: white;
+    padding: 5px;
+    border-radius:5px ;
+    border: 1px solid gray;
+    
+}
+
+.pesquisar > input{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    width: 200px;
+}
+
+.pesquisar > button{
+    border: none;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+
+}
+
+.links{
+
+    display: flex;
+}
+
+.links > a{
+border-radius: 20px;
+
+}
